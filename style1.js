@@ -1,4 +1,3 @@
-
 //active navbar
 let nav = document.querySelector(".navigation-wrap");
 window.onscroll = function(){
@@ -39,4 +38,3 @@ navbar.forEach(function(a){
     counter("count3", 0, 1440, 1400);
     counter("count4", 0, 7110, 3000);
 });
-
